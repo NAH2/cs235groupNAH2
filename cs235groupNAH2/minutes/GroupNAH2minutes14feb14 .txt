@@ -16,13 +16,14 @@ Date and Time of next meeting: 19 Feb 2014, 12:00
 
 
 Topics discussed:
--- Progress of implementation of classes, good progress has been made with Othello now working to completion. However we found that Connect four and Othello are very similar in some aspects especially were the data was being placed into the board. In its current state we are not using inheritence to our advantage so major reform of the classes was discussed to imporve design.
+-- Progress of implementation of classes, good progress has been made with Othello now working to completion. However we found that Connect four and Othello are very similar in some aspects especially were the data was being placed into the board. In its current state we are not using inheritance to our advantage so major reform of the classes was discussed to improve design.
 —- We decided to change the structure of the classes to reduce the amount of duplicate data by moving methods further up the hierarchy so that more classes could access the same methods.
-—- We discussed Bob's code conventions and looked through our classes to discover that not all had been completely followed in mny classes. 
+—- We discussed Bob's code conventions and looked through our classes to discover that not all had been completely followed in many classes. 
 
 Progress since last meeting:
 -- All classes required to play othello have been completed.
+—- All team members have downloaded Doxygen ready to produce the correct documentation for our customer.
 
 TODO (for next meeting):
--- Major restructure of source code to use inhertitence to our advantage.
+-- Major restructure of source code to use inherittance to our advantage.
 —- Ensure all code conventions on completed classes are strictly followed.

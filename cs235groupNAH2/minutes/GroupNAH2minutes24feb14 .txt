@@ -16,14 +16,15 @@ Date and Time of next meeting: 26 Feb 2014, 10:00
 
 
 Topics discussed:
---The progress of testing the classes and resolved all small issues that occured. 
-—-Which software to use to record the screen to produce a demo. We decided to use U2Any Screen Recorder Free as it produced a file in the format we required. iMovie was used to edit the files to create one mp4 file.
+--The progress of testing the classes and resolved all small issues that occurred. 
+—-Which software to use to record the screen to produce a demo. We decided to use U2Any Screen Recorder Free as it produced a file in the format we required. iMovie was used to edit the files to create one mp4 file as Tyrone is familiar with this software.
 
-—-Progress since last meeting:
+Progress since last meeting:
 —-Integration testing is now complete for all classes.
-—-Group report has now been completed and is ready for submission. 
+—-All contribution reports have been written ready to implement into our group report.
 
 
 TODO (for next meeting):
 —-Complete JUnit testing cases for the classes.
 —-Record a demo of the two games running and showing the game selection method and the winning and drawing states.
+—-Complete our Group report.

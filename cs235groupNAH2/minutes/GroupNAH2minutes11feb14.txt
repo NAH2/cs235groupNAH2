@@ -16,8 +16,8 @@ Date and Time of next meeting: 14 Feb 2014, 10:00
 
 
 Topics discussed:
--- Progress of creating methods for each class assigned to each team member.
-—- Issues with downloading GIT
+-- The progress of creating methods for each class assigned to each team member.
+—- Issues with downloading GIT. A few team members had a issues with registering to the repository so these were discussed and resolved.
 
 Progress since last meeting:
 -- Majority of the implementation of classes has began, with good progress being made. We discussed some issues that team members had e.g slight confusion of the rules and logic behind othello. However no major issues were raised and everyone was happy to continue the implementation for the next meeting. 
@@ -25,5 +25,5 @@ Progress since last meeting:
 
 TODO (for next meeting):
 --Continue with implementation of classes aiming for the classes to be close to completion by next week.
---Each team member must add their source code files to the repoitory, for others to have access to begin intergration.
+--Each team member must add their source code files to the repository, for others to have access to begin integration.
 —-For each team member to download Doxygen in preparation for documentation of the classes in a later date.

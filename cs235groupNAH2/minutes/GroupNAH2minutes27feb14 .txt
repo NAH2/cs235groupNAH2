@@ -16,15 +16,15 @@ Date and Time of next meeting: N/A
 
 
 Topics discussed:
--- Final checks of classes to ensure the coding conventions and doxygen comments are all up to standard.
--- Contribution report finalized.  
-—- All documents that required printing are done and submitted.
--- Online submission will be uploaded tonight.
+-- Final checks of classes to ensure the coding conventions and Doxygen comments are all up to standard.
+-- Contribution report finalised as each team member constructs a paragraph on how they have contributed in each aspect of the assignment.  
+—- All documents that are required printing are printed, checked and submitted.
+-- Online submission will be uploaded by the customer interface manager the day before the deadline to ensure that the two games are available for the customer by the set deadline test. 
 
 Progress since last meeting:
-—- Integration testing is now complete for all classes.
+—- Testing is now complete for all classes meaning that we can be sure that all aspects of the game will run without bugs.
 —- Group report has now been completed and is ready for submission. 
-—- Demo recorded and ready for presentation.
+—- A demo has been recorded by Tyrone which is now ready for presentation to the customer to display how each feature of the two games operates. 
 
 
 TODO (for next meeting): N/A

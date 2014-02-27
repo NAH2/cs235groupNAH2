@@ -21,7 +21,7 @@ Topics discussed:
 
 Progress since last meeting:
 -- All team members have produced skeletons of the classes to be implemented, which included all methods and parameters, so we were able to see if the classes are going be able to work together in their current form.
-   A few discrepancies were found e.g. different return types and method names, but these were easily changed to ensure that the classes were able to work together.
+—- A few discrepancies were found e.g. different return types and method names, but these were easily changed to ensure that the classes were able to work together.
 
 TODO (for next meeting):
 -- All team members must sign up and install GIT onto their personal machines, to control versions.
