@@ -1,0 +1,5 @@
+<map id="GameController" name="GameController">
+<area shape="rect" id="node3" href="$class_g_u_i.html" title="GUI is used to set up and update the display for game board and the information." alt="" coords="173,96,216,123"/>
+<area shape="rect" id="node2" href="$class_connect4_g_u_i.html" title="Connect4GUI is used to set up the background of the game board.Extends GUI." alt="" coords="145,187,244,213"/>
+<area shape="rect" id="node7" href="$class_othello_g_u_i.html" title="OthelloGUI is used to set up and update the background of the Othello game board." alt="" coords="300,187,385,213"/>
+</map>

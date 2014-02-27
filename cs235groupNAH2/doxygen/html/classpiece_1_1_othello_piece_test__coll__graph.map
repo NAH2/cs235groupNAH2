@@ -1,0 +1,4 @@
+<map id="piece.OthelloPieceTest" name="piece.OthelloPieceTest">
+<area shape="rect" id="node2" href="$classpiece_1_1_othello_piece.html" title="Othello game piece used in a game of Othello, extends GamePiece.java." alt="" coords="57,109,188,136"/>
+<area shape="rect" id="node3" href="$classpiece_1_1_game_piece.html" title="Parent class of pieces for connect four and othello games." alt="" coords="5,5,131,32"/>
+</map>

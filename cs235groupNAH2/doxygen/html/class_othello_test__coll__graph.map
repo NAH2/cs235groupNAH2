@@ -1,0 +1,8 @@
+<map id="OthelloTest" name="OthelloTest">
+<area shape="rect" id="node2" href="$class_player_1_1_human_player.html" title="HumanPlayer, used to store data about the player, extends Player.java." alt="" coords="5,83,147,109"/>
+<area shape="rect" id="node3" href="$class_player_1_1_player.html" title="Parent class of methods for HumanPlayer.java." alt="" coords="26,5,125,32"/>
+<area shape="rect" id="node4" href="$class_game_controller.html" title="GameController is used to control the game flow." alt="" coords="272,83,384,109"/>
+<area shape="rect" id="node6" href="$class_g_u_i.html" title="GUI is used to set up and update the display for game board and the information." alt="" coords="489,187,532,213"/>
+<area shape="rect" id="node5" href="$class_connect4_g_u_i.html" title="Connect4GUI is used to set up the background of the game board.Extends GUI." alt="" coords="225,277,324,304"/>
+<area shape="rect" id="node10" href="$class_othello_g_u_i.html" title="OthelloGUI is used to set up and update the background of the Othello game board." alt="" coords="400,277,485,304"/>
+</map>

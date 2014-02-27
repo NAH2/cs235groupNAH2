@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classpiece_1_1_game_piece.html" title="Parent class of pieces for connect four and othello games." alt="" coords="5,31,131,57"/>
+<area shape="rect" id="node2" href="$classpiece_1_1_connect_four_piece.html" title="Connect Four game piece used in a game of Connect Four,extends GamePiece.java." alt="" coords="179,5,343,32"/>
+<area shape="rect" id="node3" href="$classpiece_1_1_othello_piece.html" title="Othello game piece used in a game of Othello, extends GamePiece.java." alt="" coords="196,56,327,83"/>
+</map>

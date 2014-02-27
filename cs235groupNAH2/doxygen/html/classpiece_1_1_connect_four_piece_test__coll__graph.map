@@ -1,0 +1,4 @@
+<map id="piece.ConnectFourPieceTest" name="piece.ConnectFourPieceTest">
+<area shape="rect" id="node2" href="$classpiece_1_1_connect_four_piece.html" title="Connect Four game piece used in a game of Connect Four,extends GamePiece.java." alt="" coords="41,109,204,136"/>
+<area shape="rect" id="node3" href="$classpiece_1_1_game_piece.html" title="Parent class of pieces for connect four and othello games." alt="" coords="5,5,131,32"/>
+</map>

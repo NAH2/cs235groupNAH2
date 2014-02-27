@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['selection',['Selection',['../class_selection.html#a78690be540af3c13862c646f01454347',1,'Selection']]],
+  ['setcolour',['SetColour',['../classpiece_1_1_game_piece.html#afa39d8fcd3db4120cd52f93895a4e316',1,'piece::GamePiece']]],
+  ['setconnectfourinfo',['SetConnectFourInfo',['../class_connect4_g_u_i.html#a2d9c2cb142b7eacf394d8d2aa4b4eae0',1,'Connect4GUI']]],
+  ['setgameon',['SetGameOn',['../class_game_controller.html#ad0cc61bae4a78abbeb026734b4bde954',1,'GameController']]],
+  ['setgametype',['setGameType',['../class_selection.html#af99716200698876babac1d4b74515cdc',1,'Selection']]],
+  ['setheight',['SetHeight',['../classboard_game_1_1_board_game.html#a9b90a61edc13d1de759ecb9e34d433d6',1,'boardGame::BoardGame']]],
+  ['seticons',['SetIcons',['../classpiece_1_1_connect_four_piece.html#a5a1062c23f6871166cc0f2172f9c2020',1,'piece.ConnectFourPiece.SetIcons()'],['../classpiece_1_1_game_piece.html#a58b2200951578e641de44ea52456291f',1,'piece.GamePiece.SetIcons()'],['../classpiece_1_1_othello_piece.html#a6d4e9a3ce245ed0aaa4a2b3f89fab658',1,'piece.OthelloPiece.SetIcons()']]],
+  ['setimages',['setImages',['../class_connect4_g_u_i.html#aeeaf2a999fc362922028931999179adb',1,'Connect4GUI']]],
+  ['setothelloinfo',['SetOthelloInfo',['../class_othello_g_u_i.html#ab2ed4eac9b00f9c6ccfa99b47226bd7a',1,'OthelloGUI']]],
+  ['setpanelcolour',['SetPanelColour',['../class_connect4_g_u_i.html#ac55ae5afdcc4833e8d0917ca2a9a39d0',1,'Connect4GUI.SetPanelColour()'],['../class_othello_g_u_i.html#a558e07b0102eeba011fe2fad0bf7d104',1,'OthelloGUI.SetPanelColour()']]],
+  ['setpiece',['SetPiece',['../classboard_game_1_1_board_game.html#a94153f18c204992c5b69cdb2e9dded4b',1,'boardGame.BoardGame.SetPiece()'],['../classboard_game_1_1_connect_four.html#a63159a1036fae0eaccd91a6aa5eec9b8',1,'boardGame.ConnectFour.SetPiece()'],['../classboard_game_1_1_othello.html#a297e02ff47d3a241db53766a64229baf',1,'boardGame.Othello.SetPiece()']]],
+  ['setpiececolor',['SetPieceColor',['../class_player_1_1_human_player.html#aab74b81a1d6ba047a73f1462bc6e1228',1,'Player.HumanPlayer.SetPieceColor()'],['../class_player_1_1_player.html#a24e9c32e20f88e4c6a4e2ad3d273cba0',1,'Player.Player.SetPieceColor()']]],
+  ['setplayername',['SetPlayerName',['../class_player_1_1_human_player.html#aa9def7f863b3a858efed67b4e6cb70cc',1,'Player.HumanPlayer.SetPlayerName()'],['../class_player_1_1_player.html#a62d5edff3dc2532ff12ef017ff7ab30e',1,'Player.Player.SetPlayerName()']]],
+  ['setplayernameone',['setPlayerNameOne',['../class_selection.html#a59240459f9ceedde5e1f7108ababb411',1,'Selection']]],
+  ['setplayernametwo',['setPlayerNameTwo',['../class_selection.html#afe87f57567dfb27462f728018c1a6b03',1,'Selection']]],
+  ['setup',['SetUp',['../class_game_controller.html#a11eee30e0168f6b4cdafca142971de7b',1,'GameController']]],
+  ['setwidth',['SetWidth',['../classboard_game_1_1_board_game.html#abba610db4d862aae3b699579832fc06c',1,'boardGame::BoardGame']]],
+  ['setwinner',['SetWinner',['../classboard_game_1_1_board_game.html#a8723f18d560fdc07f3d509e1ebde9e52',1,'boardGame.BoardGame.SetWinner()'],['../classboard_game_1_1_connect_four.html#a5a6d7affdeb4f3482966ca08faafc30f',1,'boardGame.ConnectFour.SetWinner()'],['../classboard_game_1_1_othello.html#a666911817b578ce066f3b0d51ead30d0',1,'boardGame.Othello.SetWinner()']]],
+  ['setwinningcolour',['SetWinningColour',['../classboard_game_1_1_board_game.html#ae3be4045adefc8e4566287b5558b98d6',1,'boardGame::BoardGame']]],
+  ['showwinningbox',['ShowWinningBox',['../class_g_u_i.html#a96b7840223903ddf93720c643430fcaf',1,'GUI']]],
+  ['singledirection',['singleDirection',['../classboard_game_1_1_connect_four.html#a7c0cbdd5e7f87d2a6f855149545acb35',1,'boardGame::ConnectFour']]]
+];
