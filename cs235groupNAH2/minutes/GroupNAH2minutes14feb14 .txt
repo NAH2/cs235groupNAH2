@@ -1,0 +1,28 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 14 Feb 2014
+Start time: 10:00
+End time: 11:00
+
+Date and Time of next meeting: 19 Feb 2014, 12:00
+
+
+Topics discussed:
+-- Progress of implementation of classes, good progress has been made with Othello now working to completion. However we found that Connect four and Othello are very similar in some aspects especially were the data was being placed into the board. In its current state we are not using inheritence to our advantage so major reform of the classes was discussed to imporve design.
+—- We decided to change the structure of the classes to reduce the amount of duplicate data by moving methods further up the hierarchy so that more classes could access the same methods.
+—- We discussed Bob's code conventions and looked through our classes to discover that not all had been completely followed in mny classes. 
+
+Progress since last meeting:
+-- All classes required to play othello have been completed.
+
+TODO (for next meeting):
+-- Major restructure of source code to use inhertitence to our advantage.
+—- Ensure all code conventions on completed classes are strictly followed.

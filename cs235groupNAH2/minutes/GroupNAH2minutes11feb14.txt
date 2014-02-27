@@ -1,0 +1,29 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 11 Feb 2014
+Start time: 14:00
+End time: 14:35
+
+Date and Time of next meeting: 14 Feb 2014, 10:00
+
+
+Topics discussed:
+-- Progress of creating methods for each class assigned to each team member.
+—- Issues with downloading GIT
+
+Progress since last meeting:
+-- Majority of the implementation of classes has began, with good progress being made. We discussed some issues that team members had e.g slight confusion of the rules and logic behind othello. However no major issues were raised and everyone was happy to continue the implementation for the next meeting. 
+—- Mathew has created a repository in GitHub for each member to upload each of their classes and all team members have installed and connected to the repository.   
+
+TODO (for next meeting):
+--Continue with implementation of classes aiming for the classes to be close to completion by next week.
+--Each team member must add their source code files to the repoitory, for others to have access to begin intergration.
+—-For each team member to download Doxygen in preparation for documentation of the classes in a later date.

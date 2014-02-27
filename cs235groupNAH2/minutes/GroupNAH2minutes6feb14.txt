@@ -1,0 +1,29 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 6 Feb 2014
+Start time: 11:00
+End time: 11:30
+
+Date and Time of next meeting: 11 Feb 2014, 14:00
+
+
+Topics discussed:
+-- This meeting was focused on finding an easy way of version control. We discussed various methods such as Dropbox, Google Drive and GIT.
+    We decided that GIT would be the best method for this project as it is easy to use and clearly highlights changes made by team members. 
+
+Progress since last meeting:
+-- All team members have produced skeletons of the classes to be implemented, which included all methods and parameters, so we were able to see if the classes are going be able to work together in their current form.
+   A few discrepancies were found e.g. different return types and method names, but these were easily changed to ensure that the classes were able to work together.
+
+TODO (for next meeting):
+-- All team members must sign up and install GIT onto their personal machines, to control versions.
+-- A group repository must be created, that all team members can access, in order to upload their work.
+-- All team members must begin to implement the methods within their classes, so that we have a basic working program at the next meeting.

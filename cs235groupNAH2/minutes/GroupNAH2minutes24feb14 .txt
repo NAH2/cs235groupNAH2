@@ -1,0 +1,29 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 24 Feb 2014
+Start time: 10:00
+End time: 11:00
+
+Date and Time of next meeting: 26 Feb 2014, 10:00
+
+
+Topics discussed:
+--The progress of testing the classes and resolved all small issues that occured. 
+—-Which software to use to record the screen to produce a demo. We decided to use U2Any Screen Recorder Free as it produced a file in the format we required. iMovie was used to edit the files to create one mp4 file.
+
+—-Progress since last meeting:
+—-Integration testing is now complete for all classes.
+—-Group report has now been completed and is ready for submission. 
+
+
+TODO (for next meeting):
+—-Complete JUnit testing cases for the classes.
+—-Record a demo of the two games running and showing the game selection method and the winning and drawing states.

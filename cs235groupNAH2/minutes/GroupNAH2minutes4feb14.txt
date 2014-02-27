@@ -1,0 +1,40 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 4 Feb 2014
+Start time: 14:00
+End time: 14:30
+
+Date and Time of next meeting: 6 Feb 2014, 11:00
+
+
+Topics discussed:
+-- We discussed who in the team would be associated with what role, we decided the following roles:
+
+    GAVIN BAILEY is the Design Manager
+    TYRONE LEE BRAMWELL is the Testing Manager
+    CHAK YAN LAM is the Joint Implementation Manager
+    THOMAS LETHEBY is the Doxygen Manager
+    MATHEW JAMES LLOYD is the Planning and Quality Manager
+    JAKE DARYL PLUMLEY is the Customer Interface Manager
+    CHUN KIT SO is the Joint Implementation Manager
+
+-- As a group we discussed the roles of each of the managers and believed that the Implementation Manager would be the most difficult, and as we had more team members than managerial positions we decided that it would be best to put two team members to work together in this role. We felt that by doing this the implementation would go smoother as the two managers could work with a greater number of team members and work together on the more difficult sections of the project.
+
+-- We discussed the classes that each member had been assigned in CS-230, to ensure that each member was certain of their purposes and requirements.
+   We found that as this part of the project is a partial implementation a few team members were left without classes to implement. So a slight reshuffle  of class assignments was required
+
+
+Progress since last meeting:
+-- None as this is our first meeting.
+
+TODO (for next meeting):
+-- All team members must study the design documentation that has been produced.
+-- By the next meeting each team member must begin to write the classes that they were previously assigned.

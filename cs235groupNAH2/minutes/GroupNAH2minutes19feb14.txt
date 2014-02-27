@@ -1,0 +1,31 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 19 Feb 2014
+Start time: 12:00
+End time: 13:15
+
+Date and Time of next meeting: 24 Feb 2014, 10:00
+
+
+Topics discussed:
+-- The completion of connectFour class and the running of the game.
+—- Discussed a variety of testing methods and decided on using JUnit testing and integration testing for all classes, as this would ensure our application is bug free. 
+-- All classes required to play othello and connect four have now been completed. The group played the game connect four testing that all winning combinations are working as expected.
+
+Progress since last meeting:
+-- The redesign of the structure has been completed, with many classes now sharing methods to make implementation smoother.
+—- All completed classes checked over by Thomas to ensure doxygen comments are up to standard.
+—- All completed classes also checked over by Mathew to check that each team member has now followed the code conventions so that each persons code is easy to read.
+
+TODO (for next meeting):
+-- Implement integration testing throughout the classes.
+—- Tyrone to search for software to record our demo in the most efficient manner. 
+—- Each team member to produce a paragraph on how they contributed to the assignment. 
